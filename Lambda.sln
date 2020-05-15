@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lambda", "Lambda.vcxproj", "{5AE2D15D-505F-407D-BC37-6FDF9B7E2E08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AE2D15D-505F-407D-BC37-6FDF9B7E2E08}.Debug|x64.ActiveCfg = Debug|x64
+		{5AE2D15D-505F-407D-BC37-6FDF9B7E2E08}.Debug|x64.Build.0 = Debug|x64
+		{5AE2D15D-505F-407D-BC37-6FDF9B7E2E08}.Debug|x86.ActiveCfg = Debug|Win32
+		{5AE2D15D-505F-407D-BC37-6FDF9B7E2E08}.Debug|x86.Build.0 = Debug|Win32
+		{5AE2D15D-505F-407D-BC37-6FDF9B7E2E08}.Release|x64.ActiveCfg = Release|x64
+		{5AE2D15D-505F-407D-BC37-6FDF9B7E2E08}.Release|x64.Build.0 = Release|x64
+		{5AE2D15D-505F-407D-BC37-6FDF9B7E2E08}.Release|x86.ActiveCfg = Release|Win32
+		{5AE2D15D-505F-407D-BC37-6FDF9B7E2E08}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {023CFCDB-A5AB-4043-A91F-2666E71ABD0A}
+	EndGlobalSection
+EndGlobal
